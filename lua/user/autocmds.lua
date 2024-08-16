@@ -1,4 +1,4 @@
-local im_select = require "utils.im-select"
+local im_select = require "user.utils.im-select"
 
 vim.api.nvim_create_augroup("im-select", { clear = true })
 
